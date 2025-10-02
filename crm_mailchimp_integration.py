@@ -1,3 +1,8 @@
+# Script: crm_mailchimp_integration.py
+# Role: Salesforce Business Analyst at Kallman Worldwide
+# Purpose: Extract campaign KPIs (open rate, click rate) from Mailchimp and prepare for integration with Momentus CRM
+# Technologies: Python, REST API, JSON, requests
+# Business Impact: Enabled marketing teams to visualize campaign performance and reduce manual reporting overhead
 import requests
 import json
 
